@@ -1,0 +1,1 @@
+{"version":3,"file":"GuildRoleDeleteEvent.d.ts","sourceRoot":"","sources":["GuildRoleDeleteEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,YAAY,CAAC;AAElC,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,oBAAqB,SAAQ,UAAU;IAChD,IAAI,EAAE,IAAI,CAAC;IAEX;;OAEG;gBACS,IAAI,EAAE,IAAI;IAKtB;;OAEG;IACH,OAAO,IAAI,IAAI;CAGlB"}

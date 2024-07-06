@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageUpdateEvent.js","sourceRoot":"","sources":["MessageUpdateEvent.ts"],"names":[],"mappings":";;;AACA,iDAA8C;AAC9C,sCAAmC;AAEnC,MAAa,kBAAmB,SAAQ,2BAAY;IAGhD,YAAY,UAAmB,EAAE,UAAmB;QAChD,KAAK,CAAC,eAAM,CAAC,aAAa,EAAE,UAAU,CAAC,CAAC;QACxC,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;IACjC,CAAC;IAED,aAAa;QACT,OAAO,IAAI,CAAC,UAAU,CAAC;IAC3B,CAAC;CACJ;AAXD,gDAWC"}

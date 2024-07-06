@@ -1,0 +1,1 @@
+{"version":3,"file":"AutoModerationRuleDeleteEvent.d.ts","sourceRoot":"","sources":["AutoModerationRuleDeleteEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,YAAY,CAAC;AAEhD,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAEpD,qBAAa,6BAA8B,SAAQ,eAAe;gBAClD,kBAAkB,EAAE,kBAAkB;CAGrD"}

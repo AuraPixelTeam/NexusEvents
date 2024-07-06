@@ -1,0 +1,1 @@
+{"version":3,"file":"ApplicationCommandPermissionsUpdateEvent.d.ts","sourceRoot":"","sources":["ApplicationCommandPermissionsUpdateEvent.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAEpD,qBAAa,wCAAyC,SAAQ,eAAe;IACzE,IAAI,EAAE,GAAG,CAAC;gBAEE,IAAI,EAAE,GAAG;IAKrB,OAAO,IAAI,GAAG;CAGjB"}

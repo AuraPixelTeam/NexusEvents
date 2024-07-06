@@ -1,0 +1,1 @@
+{"version":3,"file":"GuildBanRemoveEvent.d.ts","sourceRoot":"","sources":["GuildBanRemoveEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAEtC,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,mBAAoB,SAAQ,UAAU;IAE/C,QAAQ,EAAE,QAAQ,CAAC;IACnB;;OAEG;gBACS,QAAQ,EAAE,QAAQ;IAK9B;;OAEG;IACH,WAAW,IAAI,QAAQ;CAG1B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"GuildCreateEvent.d.ts","sourceRoot":"","sources":["GuildCreateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,YAAY,CAAC;AAEnC,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,gBAAiB,SAAQ,UAAU;gBAChC,KAAK,EAAE,KAAK;CAG3B"}

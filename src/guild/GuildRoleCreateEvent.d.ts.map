@@ -1,0 +1,1 @@
+{"version":3,"file":"GuildRoleCreateEvent.d.ts","sourceRoot":"","sources":["GuildRoleCreateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,YAAY,CAAC;AAElC,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,oBAAqB,SAAQ,UAAU;IAChD,IAAI,EAAE,IAAI,CAAC;gBAEC,IAAI,EAAE,IAAI;IAKtB,OAAO,IAAI,IAAI;CAGlB"}

@@ -4,13 +4,19 @@ import { Events } from "../Events";
 
 export class MessageReactionRemoveEmojiEvent extends MessageEvent {
     messageReaction: MessageReaction;
+    user: User;
 
     constructor(messageReaction: MessageReaction, user: User) {
         super(Events.MessageReactionRemoveEmoji, messageReaction.message);
         this.messageReaction = messageReaction;
+        this.user = user
     }
 
     getMessageReaction(): MessageReaction {
         return this.messageReaction;
+    }
+
+    getUser(): User {
+        return this.user
     }
 }

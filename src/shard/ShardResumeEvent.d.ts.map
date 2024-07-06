@@ -1,0 +1,1 @@
+{"version":3,"file":"ShardResumeEvent.d.ts","sourceRoot":"","sources":["ShardResumeEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAGjC,qBAAa,gBAAiB,SAAQ,KAAK;IACvC,EAAE,EAAE,MAAM,CAAC;IACX,cAAc,EAAE,MAAM,CAAC;gBAEX,EAAE,EAAE,MAAM,EAAE,cAAc,EAAE,MAAM;IAM9C,KAAK,IAAI,MAAM;IAIf,iBAAiB,IAAI,MAAM;CAG9B"}

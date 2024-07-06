@@ -8,6 +8,7 @@ export class ThreadMemberUpdateEvent extends ThreadEvent {
 
     constructor(oldMember: any, newMember: any) {
         super(Events.ThreadMemberUpdate, newMember.thread);
+        this.oldMember = oldMember;
     }
 
     getOldMember(): any {

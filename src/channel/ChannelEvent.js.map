@@ -1,0 +1,1 @@
+{"version":3,"file":"ChannelEvent.js","sourceRoot":"","sources":["ChannelEvent.ts"],"names":[],"mappings":";;;AACA,oCAAiC;AAEjC,MAAa,YAAa,SAAQ,aAAK;IAGnC,YAAY,SAAiB,EAAE,OAAiC;QAC5D,KAAK,CAAC,SAAS,CAAC,CAAC;QACjB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;IAED,UAAU;QACN,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;CACJ;AAXD,oCAWC"}

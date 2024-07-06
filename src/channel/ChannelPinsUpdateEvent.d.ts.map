@@ -1,0 +1,1 @@
+{"version":3,"file":"ChannelPinsUpdateEvent.d.ts","sourceRoot":"","sources":["ChannelPinsUpdateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,YAAY,CAAC;AAE1C,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,qBAAa,sBAAuB,SAAQ,YAAY;IACpD,IAAI,EAAE,IAAI,CAAC;gBAEC,OAAO,EAAE,YAAY,EAAE,IAAI,EAAE,IAAI;IAK7C,OAAO,IAAI,IAAI;CAGlB"}

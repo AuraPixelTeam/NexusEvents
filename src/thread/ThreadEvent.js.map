@@ -1,0 +1,1 @@
+{"version":3,"file":"ThreadEvent.js","sourceRoot":"","sources":["ThreadEvent.ts"],"names":[],"mappings":";;;AACA,oCAAiC;AAEjC,MAAa,WAAY,SAAQ,aAAK;IAGlC,YAAY,SAAiB,EAAE,MAAiC;QAC5D,KAAK,CAAC,SAAS,CAAC,CAAC;QACjB,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;IACzB,CAAC;IAED,SAAS;QACL,OAAO,IAAI,CAAC,MAAM,CAAC;IACvB,CAAC;CACJ;AAXD,kCAWC"}

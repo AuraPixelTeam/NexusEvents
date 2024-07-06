@@ -1,0 +1,1 @@
+{"version":3,"file":"StageEvent.d.ts","sourceRoot":"","sources":["StageEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAC3C,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAEjC,qBAAa,UAAW,SAAQ,KAAK;IACjC,aAAa,EAAE,aAAa,CAAC;gBAEjB,SAAS,EAAE,MAAM,EAAE,aAAa,EAAE,aAAa;IAK3D,gBAAgB,IAAI,aAAa;CAGpC"}

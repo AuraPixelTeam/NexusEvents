@@ -1,0 +1,1 @@
+{"version":3,"file":"InviteCreateEvent.d.ts","sourceRoot":"","sources":["InviteCreateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,YAAY,CAAC;AACpC,OAAO,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAG5C,qBAAa,iBAAkB,SAAQ,WAAW;gBAElC,MAAM,EAAE,MAAM;CAG7B"}

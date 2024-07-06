@@ -1,0 +1,1 @@
+{"version":3,"file":"TypingStartEvent.d.ts","sourceRoot":"","sources":["TypingStartEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,YAAY,CAAC;AACpC,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAGjC,qBAAa,gBAAiB,SAAQ,KAAK;IACvC,MAAM,EAAE,MAAM,CAAC;gBAEH,MAAM,EAAE,MAAM;IAK1B,SAAS,IAAI,MAAM;CAGtB"}

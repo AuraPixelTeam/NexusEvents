@@ -1,0 +1,1 @@
+{"version":3,"file":"ShardDisconnectEvent.d.ts","sourceRoot":"","sources":["ShardDisconnectEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAGjC,qBAAa,oBAAqB,SAAQ,KAAK;IAC3C,UAAU,EAAE,GAAG,CAAC;IAChB,EAAE,EAAE,MAAM,CAAC;gBAEC,UAAU,EAAE,GAAG,EAAE,EAAE,EAAE,MAAM;IAMvC,aAAa,IAAI,GAAG;IAIpB,KAAK,IAAI,MAAM;CAGlB"}

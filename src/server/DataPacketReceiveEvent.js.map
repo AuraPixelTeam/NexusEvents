@@ -1,0 +1,1 @@
+{"version":3,"file":"DataPacketReceiveEvent.js","sourceRoot":"","sources":["DataPacketReceiveEvent.ts"],"names":[],"mappings":";;;AAAA,sCAAmC;AACnC,+CAA4C;AAE5C,MAAa,sBAAuB,SAAQ,yBAAW;IAGnD,YAAY,MAAW;QACnB,KAAK,CAAC,eAAM,CAAC,iBAAiB,CAAC,CAAC;QAChC,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;IACzB,CAAC;IAED,SAAS;QACL,OAAO,IAAI,CAAC,MAAM,CAAC;IACvB,CAAC;CACJ;AAXD,wDAWC"}

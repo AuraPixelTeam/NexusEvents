@@ -1,0 +1,1 @@
+{"version":3,"file":"InteractionEvent.d.ts","sourceRoot":"","sources":["InteractionEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,YAAY,CAAC;AAC7C,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAEjC,qBAAa,gBAAiB,SAAQ,KAAK;IAEvC,WAAW,EAAE,eAAe,CAAC;IAE7B;;;OAGG;gBACS,SAAS,EAAE,MAAM,EAAE,WAAW,EAAE,eAAe;IAK3D;;OAEG;IACH,cAAc,IAAI,eAAe;CAGpC"}

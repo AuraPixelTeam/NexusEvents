@@ -1,0 +1,1 @@
+{"version":3,"file":"ShardReconnectingEvent.d.ts","sourceRoot":"","sources":["ShardReconnectingEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAGjC,qBAAa,sBAAuB,SAAQ,KAAK;IAC7C,EAAE,EAAE,MAAM,CAAC;IACX,iBAAiB,EAAE,GAAG,EAAE,CAAC;gBAEb,EAAE,EAAE,MAAM,EAAE,iBAAiB,EAAE,GAAG,EAAE;IAMhD,KAAK,IAAI,MAAM;IAIf,oBAAoB,IAAI,GAAG,EAAE;CAGhC"}

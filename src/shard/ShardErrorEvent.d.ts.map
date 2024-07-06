@@ -1,0 +1,1 @@
+{"version":3,"file":"ShardErrorEvent.d.ts","sourceRoot":"","sources":["ShardErrorEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAGjC,qBAAa,eAAgB,SAAQ,KAAK;IACtC,KAAK,EAAE,KAAK,CAAC;IACb,OAAO,EAAE,MAAM,CAAC;gBAEJ,KAAK,EAAE,KAAK,EAAE,OAAO,EAAE,MAAM;IAMzC,QAAQ,IAAI,KAAK;IAIjB,UAAU,IAAI,MAAM;CAGvB"}

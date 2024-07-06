@@ -1,0 +1,1 @@
+{"version":3,"file":"ThreadMemberUpdateEvent.d.ts","sourceRoot":"","sources":["ThreadMemberUpdateEvent.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAE5C,qBAAa,uBAAwB,SAAQ,WAAW;IACpD,SAAS,EAAE,GAAG,CAAC;IACf,SAAS,EAAE,GAAG,CAAC;gBAEH,SAAS,EAAE,GAAG,EAAE,SAAS,EAAE,GAAG;IAK1C,YAAY,IAAI,GAAG;IAInB,aAAa,IAAI,GAAG;CAGvB"}

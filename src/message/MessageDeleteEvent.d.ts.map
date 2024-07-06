@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageDeleteEvent.d.ts","sourceRoot":"","sources":["MessageDeleteEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AACrC,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAG9C,qBAAa,kBAAmB,SAAQ,YAAY;gBACpC,OAAO,EAAE,OAAO;CAG/B"}

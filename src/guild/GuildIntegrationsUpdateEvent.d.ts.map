@@ -1,0 +1,1 @@
+{"version":3,"file":"GuildIntegrationsUpdateEvent.d.ts","sourceRoot":"","sources":["GuildIntegrationsUpdateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,YAAY,CAAC;AAEnC,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,4BAA6B,SAAQ,UAAU;gBAC5C,KAAK,EAAE,KAAK;CAG3B"}

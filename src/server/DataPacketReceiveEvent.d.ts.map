@@ -1,0 +1,1 @@
+{"version":3,"file":"DataPacketReceiveEvent.d.ts","sourceRoot":"","sources":["DataPacketReceiveEvent.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAE5C,qBAAa,sBAAuB,SAAQ,WAAW;IACnD,MAAM,EAAE,GAAG,CAAC;gBAEA,MAAM,EAAE,GAAG;IAKvB,SAAS,IAAI,GAAG;CAGnB"}

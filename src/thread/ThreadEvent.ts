@@ -2,9 +2,9 @@ import { ThreadChannel } from "discord.js";
 import { Event } from "../Event";
 
 export class ThreadEvent extends Event {
-    thread?: ThreadChannel;
+    thread: ThreadChannel | undefined;
 
-    constructor(eventName: string, thread?: ThreadChannel) {
+    constructor(eventName: string, thread: ThreadChannel | undefined) {
         super(eventName);
         this.thread = thread;
     }

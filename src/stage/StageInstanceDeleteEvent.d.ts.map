@@ -1,0 +1,1 @@
+{"version":3,"file":"StageInstanceDeleteEvent.d.ts","sourceRoot":"","sources":["StageInstanceDeleteEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAE3C,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,wBAAyB,SAAQ,UAAU;gBACxC,aAAa,EAAE,aAAa;CAG3C"}

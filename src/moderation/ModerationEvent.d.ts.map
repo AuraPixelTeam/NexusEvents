@@ -1,0 +1,1 @@
+{"version":3,"file":"ModerationEvent.d.ts","sourceRoot":"","sources":["ModerationEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,YAAY,CAAC;AAChD,OAAO,EAAE,KAAK,EAAE,MAAM,aAAa,CAAC;AAEpC,qBAAa,eAAgB,SAAQ,KAAK;IACtC,kBAAkB,EAAE,kBAAkB,GAAG,IAAI,CAAC;gBAElC,SAAS,EAAE,MAAM,EAAE,kBAAkB,EAAE,kBAAkB,GAAG,IAAI;IAK5E,qBAAqB,IAAI,kBAAkB,GAAG,IAAI;CAGrD"}

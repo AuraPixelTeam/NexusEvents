@@ -1,0 +1,1 @@
+{"version":3,"file":"ThreadDeleteEvent.d.ts","sourceRoot":"","sources":["ThreadDeleteEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAE3C,OAAO,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAE5C,qBAAa,iBAAkB,SAAQ,WAAW;gBAClC,MAAM,EAAE,aAAa;CAGpC"}

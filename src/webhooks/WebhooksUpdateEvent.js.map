@@ -1,0 +1,1 @@
+{"version":3,"file":"WebhooksUpdateEvent.js","sourceRoot":"","sources":["WebhooksUpdateEvent.ts"],"names":[],"mappings":";;;AACA,oCAAiC;AACjC,sCAAmC;AAEnC,MAAa,mBAAoB,SAAQ,aAAK;IAG1C,YAAY,OAA+E;QACvF,KAAK,CAAC,eAAM,CAAC,cAAc,CAAC,CAAC;QAC7B,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;IAED;;;OAGG;IACH,UAAU;QACN,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;CACJ;AAfD,kDAeC"}

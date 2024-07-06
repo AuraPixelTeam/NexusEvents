@@ -1,0 +1,1 @@
+{"version":3,"file":"PluginEvent.d.ts","sourceRoot":"","sources":["PluginEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAEjC,qBAAa,WAAY,SAAQ,KAAK;IAClC,MAAM,EAAE,GAAG,CAAC;gBAEA,SAAS,EAAE,MAAM,EAAE,MAAM,EAAE,GAAG;IAK1C,SAAS,IAAI,GAAG;CAGnB"}

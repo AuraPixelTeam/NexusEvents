@@ -1,0 +1,1 @@
+{"version":3,"file":"ModerationEvent.js","sourceRoot":"","sources":["ModerationEvent.ts"],"names":[],"mappings":";;;AACA,0CAAoC;AAEpC,MAAa,eAAgB,SAAQ,gBAAK;IAGtC,YAAY,SAAiB,EAAE,kBAA6C;QACxE,KAAK,CAAC,SAAS,CAAC,CAAC;QACjB,IAAI,CAAC,kBAAkB,GAAG,kBAAkB,CAAC;IACjD,CAAC;IAED,qBAAqB;QACjB,OAAO,IAAI,CAAC,kBAAkB,CAAC;IACnC,CAAC;CACJ;AAXD,0CAWC"}

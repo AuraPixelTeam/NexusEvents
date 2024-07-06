@@ -1,0 +1,1 @@
+{"version":3,"file":"GuildStickerDeleteEvent.d.ts","sourceRoot":"","sources":["GuildStickerDeleteEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAErC,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,uBAAwB,SAAQ,UAAU;IACnD,OAAO,EAAE,OAAO,CAAC;gBAEL,OAAO,EAAE,OAAO;IAK5B,UAAU,IAAI,OAAO;CAGxB"}

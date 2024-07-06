@@ -1,0 +1,1 @@
+{"version":3,"file":"ChannelCreateEvent.d.ts","sourceRoot":"","sources":["ChannelCreateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,YAAY,CAAC;AAE1C,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,qBAAa,kBAAmB,SAAQ,YAAY;gBACpC,OAAO,EAAE,YAAY;CAGpC"}

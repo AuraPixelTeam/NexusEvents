@@ -1,0 +1,1 @@
+{"version":3,"file":"StageInstanceUpdateEvent.d.ts","sourceRoot":"","sources":["StageInstanceUpdateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAE3C,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,qBAAa,wBAAyB,SAAQ,UAAU;IACpD,gBAAgB,EAAE,aAAa,CAAC;gBAEpB,gBAAgB,EAAE,aAAa,EAAE,gBAAgB,EAAE,aAAa;IAK5E,mBAAmB,IAAI,aAAa;CAGvC"}

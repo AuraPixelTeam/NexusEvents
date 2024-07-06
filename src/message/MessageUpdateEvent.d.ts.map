@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageUpdateEvent.d.ts","sourceRoot":"","sources":["MessageUpdateEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AACrC,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAG9C,qBAAa,kBAAmB,SAAQ,YAAY;IAChD,UAAU,EAAE,OAAO,CAAC;gBAER,UAAU,EAAE,OAAO,EAAE,UAAU,EAAE,OAAO;IAKpD,aAAa,IAAI,OAAO;CAG3B"}
